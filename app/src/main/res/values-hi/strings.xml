@@ -1,0 +1,56 @@
+<!-- res/values-hi/strings.xml -->
+<resources>
+    <!-- App Name -->
+    <string name="app_name">24x7 न्यूज़ ऐप</string>
+
+    <!-- Navigation Menu Items -->
+    <string name="nav_home">होम</string>
+    <string name="nav_notifications">सूचनाएं</string>
+    <string name="nav_settings">सेटिंग्स</string>
+    <string name="nav_share">शेयर करें</string>
+    <string name="nav_about">हमारे बारे में</string>
+    <string name="nav_contact">संपर्क करें</string>
+    <string name="nav_feedback">प्रतिक्रिया</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_news">समाचार</string>
+    <string name="nav_papers">पत्रिकाएं-समाचार पत्र</string>
+
+    <!-- NewsFragment -->
+    <string name="news_item">समाचार आइटम %1$d</string>
+    <string name="news_description">समाचार आइटम %1$d के लिए विवरण</string>
+
+    <!-- AboutUsFragment -->
+    <string name="about_us_title">हमारे बारे में</string>
+    <string name="about_us_content">24x7 न्यूज़ ऐप में आपका स्वागत है! हम दुनिया भर से नवीनतम समाचार अपडेट प्रदान करते हैं, आपको सूचित और व्यस्त रखते हैं। हमारा मिशन उपयोगकर्ताओं को सटीक और समय पर जानकारी प्रदान करना है।</string>
+
+    <!-- ContactUsFragment -->
+    <string name="contact_us_title">संपर्क करें</string>
+    <string name="contact_us_content">ईमेल: support@24x7newsapp.com\nफोन: +1-800-555-1234\nपता: 123 न्यूज़ स्ट्रीट, इन्फो सिटी</string>
+
+    <!-- NotificationsFragment -->
+    <string name="notifications_title">सूचनाएं</string>
+    <string name="notifications_content">आपकी सूचनाएं यहां दिखाई देंगी। अपडेट के लिए बने रहें!</string>
+
+    <!-- SettingsFragment -->
+    <string name="settings_title">सेटिंग्स</string>
+    <string name="Language">भाषा</string>
+
+    <!-- ShareFragment -->
+    <string name="share_title">शेयर करें</string>
+    <string name="share_content">24x7 न्यूज़ ऐप को अपने दोस्तों के साथ शेयर करें!\nलिंक: https://24x7newsapp.com</string>
+    <string name="share_button">अब शेयर करें</string>
+    <string name="share_text">24x7 न्यूज़ ऐप देखें: https://24x7newsapp.com</string>
+
+    <!-- FeedbackFragment -->
+    <string name="feedback_title">प्रतिक्रिया</string>
+    <string name="feedback_name_hint">अपना नाम दर्ज करें</string>
+    <string name="feedback_email_hint">अपना ईमेल दर्ज करें</string>
+    <string name="feedback_description_hint">अपनी प्रतिक्रिया दर्ज करें</string>
+    <string name="feedback_submit">जमा करें</string>
+    <string name="feedback_error_empty">कृपया सभी क्षेत्र भरें</string>
+    <string name="feedback_error_email">कृपया एक मान्य ईमेल दर्ज करें</string>
+    <string name="feedback_success">प्रतिक्रिया सफलतापूर्वक जमा की गई!</string>
+
+    <string name="nav_view_feedback">प्रतिक्रिया देखें</string>
+</resources>

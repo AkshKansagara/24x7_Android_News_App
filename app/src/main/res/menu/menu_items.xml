@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navhome"
+        android:title="@string/nav_home"
+        android:icon="@drawable/home_icon"/>
+
+    <item
+        android:id="@+id/navnotification"
+        android:title="@string/nav_notifications"
+        android:icon="@drawable/notifications_icon"/>
+
+    <item
+        android:id="@+id/navsettings"
+        android:title="@string/nav_settings"
+        android:icon="@drawable/settings_icon"/>
+
+    <item
+        android:id="@+id/navshare"
+        android:title="@string/nav_share"
+        android:icon="@drawable/share_icon"/>
+
+    <item
+        android:id="@+id/navfeedback"
+        android:title="@string/nav_feedback"
+        android:icon="@drawable/feedback_icon"/>
+
+    <item
+        android:id="@+id/navcontactus"
+        android:title="@string/nav_contact"
+        android:icon="@drawable/contact_support_icon"/>
+
+    <item
+        android:id="@+id/navaboutus"
+        android:title="@string/nav_about"
+        android:icon="@drawable/info_icon"/>
+
+    <item
+        android:id="@+id/nav_view_feedback"
+        android:title="@string/nav_view_feedback"
+        android:icon="@drawable/feedback_icon" />
+</menu>

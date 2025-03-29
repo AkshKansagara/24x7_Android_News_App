@@ -1,0 +1,56 @@
+<!-- res/values-gu/strings.xml -->
+<resources>
+    <!-- App Name -->
+    <string name="app_name">24x7 ન્યૂઝ એપ</string>
+
+    <!-- Navigation Menu Items -->
+    <string name="nav_home">હોમ</string>
+    <string name="nav_notifications">સૂચનાઓ</string>
+    <string name="nav_settings">સેટિંગ્સ</string>
+    <string name="nav_share">શેર કરો</string>
+    <string name="nav_about">અમારા વિશે</string>
+    <string name="nav_contact">સંપર્ક કરો</string>
+    <string name="nav_feedback">પ્રતિસાદ</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_news">સમાચાર</string>
+    <string name="nav_papers">પત્રિકાઓ-સમાચારપત્રો</string>
+
+    <!-- NewsFragment -->
+    <string name="news_item">સમાચાર આઇટમ %1$d</string>
+    <string name="news_description">સમાચાર આઇટમ %1$d માટે વર્ણન</string>
+
+    <!-- AboutUsFragment -->
+    <string name="about_us_title">અમારા વિશે</string>
+    <string name="about_us_content">24x7 ન્યૂઝ એપમાં આપનું સ્વાગત છે! અમે વિશ્વભરના તાજેતરના સમાચાર અપડેટ્સ પ્રદાન કરીએ છીએ, જે તમને માહિતગાર અને જોડાયેલા રાખે છે. અમારું મિશન યૂઝર્સને સચોટ અને સમયસર માહિતી પહોંચાડવાનું છે.</string>
+
+    <!-- ContactUsFragment -->
+    <string name="contact_us_title">સંપર્ક કરો</string>
+    <string name="contact_us_content">ઈમેઈલ: support@24x7newsapp.com\nફોન: +1-800-555-1234\nસરનામું: 123 ન્યૂઝ સ્ટ્રીટ, ઇન્ફો સિટી</string>
+
+    <!-- NotificationsFragment -->
+    <string name="notifications_title">સૂચનાઓ</string>
+    <string name="notifications_content">તમારી સૂચનાઓ અહીં દેખાશે. અપડેટ્સ માટે ટ્યુન રહો!</string>
+
+    <!-- SettingsFragment -->
+    <string name="settings_title">સેટિંગ્સ</string>
+    <string name="Language">ભાષા</string>
+
+    <!-- ShareFragment -->
+    <string name="share_title">શેર કરો</string>
+    <string name="share_content">24x7 ન્યૂઝ એપને તમારા મિત્રો સાથે શેર કરો!\nલિંક: https://24x7newsapp.com</string>
+    <string name="share_button">હવે શેર કરો</string>
+    <string name="share_text">24x7 ન્યૂઝ એપ જુઓ: https://24x7newsapp.com</string>
+
+    <!-- FeedbackFragment -->
+    <string name="feedback_title">પ્રતિસાદ</string>
+    <string name="feedback_name_hint">તમારું નામ દાખલ કરો</string>
+    <string name="feedback_email_hint">તમારું ઈમેઈલ દાખલ કરો</string>
+    <string name="feedback_description_hint">તમારો પ્રતિસાદ દાખલ કરો</string>
+    <string name="feedback_submit">સબમિટ કરો</string>
+    <string name="feedback_error_empty">કૃપા કરીને બધા ફીલ્ડ ભરો</string>
+    <string name="feedback_error_email">કૃપા કરીને માન્ય ઈમેઈલ દાખલ કરો</string>
+    <string name="feedback_success">પ્રતિસાદ સફળતાપૂર્વક સબમિટ થયો!</string>
+
+    <string name="nav_view_feedback">પ્રતિસાદ જુઓ</string>
+</resources>
